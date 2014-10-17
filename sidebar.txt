@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[woa:home|Door43 (woa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-woa|d43-woa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-woa/archive/master.zip|d43-woa.zip]]
+
+**Recent Changes**
+{{changes>ns = woa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/woa|Ethnologue data]]
+
